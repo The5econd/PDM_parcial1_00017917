@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_sized_letters">24sp</dimen>
+    <dimen name="normal_margin">10dp</dimen>
+    <dimen name="normal_sized_letters">16sp</dimen>
+    <dimen name="small_sized_letters">12sp</dimen>
+</resources>
